@@ -1,2 +1,2 @@
 # ChatApplicationServer
-高仿QQ服务器
+QQ：758068382
